@@ -1,0 +1,19 @@
+.HeadingFirst {
+    font-size: 27px;
+    color:aqua;
+    margin-top: 0;
+    background-color: cadetblue;
+}
+
+.Paragraph {
+    font-size: 28px;
+    color: black;
+    background-color: aliceblue;
+}
+
+.HeadingSecond {
+    font-size: 27px;
+    color: aqua;
+    margin-top: 0;
+    background-color: bisque;
+}
